@@ -30,6 +30,10 @@ header {
     flex-wrap: wrap;
     box-shadow: rgba(0, 0, 0, 0.9);
     width: 100%;
+    position: sticky;
+    position: -webkit-sticky;
+    z-index: 9999;
+    top: 0;
   }
 
   header a {
@@ -254,6 +258,7 @@ section {
 /* Footer Start */
 
 footer {
+  padding-top: 50px;
   background-color: var(--dark-grey);
   color: var(--lighter-grey);
 }
