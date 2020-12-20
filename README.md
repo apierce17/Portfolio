@@ -2,7 +2,7 @@ link: https://apierce17.github.io/Portfolio/
 
 # Portfolio
 My personal portfolio with a section showing my work, a section with a description of me, and a section with my contact info.
-![Alt Text] (https://github.com/apierce17/Portfolio/blob/master/Assets/Images/website-screenshot.png)
+![Alt Text](https://github.com/apierce17/Portfolio/blob/master/Assets/Images/website-screenshot.png)
 
 Image Sources:
 https://www.pexels.com/photo/modern-skyscrapers-under-clear-blue-sky-5695461/
