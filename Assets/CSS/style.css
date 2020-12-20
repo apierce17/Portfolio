@@ -284,11 +284,6 @@ footer {
 
 @media screen and (max-width: 1024px) {
 
-  body {
-    background-image: none;
-    background-color: var(--dark-grey);
-  }
-
   /* Header Start */
   header {
     padding: 20px 35px;
@@ -316,6 +311,11 @@ footer {
   /* Header End */
 
   /* Projects Start */
+
+  .projects {
+    background-image: none;
+    background-color: var(--dark-grey);
+  }
 
   .projects-grid-container {
     grid-template-columns: repeat(6, 1fr);
